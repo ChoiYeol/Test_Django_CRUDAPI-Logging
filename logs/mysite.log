@@ -1,0 +1,174 @@
+2022-03-23 16:26:03,794 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:26:26,199 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\web_study\settings.py changed, reloading.
+2022-03-23 16:26:27,795 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:26:57,610 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:26:59,308 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:26:59,724 [ERROR] django.request: Internal Server Error: /post_view/
+Traceback (most recent call last):
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\workspace\djgo\djgoNewStart\web_study\main\views.py", line 62, in post_view
+    print(a)
+NameError: name 'a' is not defined
+2022-03-23 16:26:59,912 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:29:06,019 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:29:07,664 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:29:11,055 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:29:11,786 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:29:30,197 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:29:30,971 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:29:36,754 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:29:38,443 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:29:38,686 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:29:39,431 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:30:25,157 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\web_study\settings.py changed, reloading.
+2022-03-23 16:30:26,764 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:30:40,772 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:30:42,571 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:31:01,770 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:31:03,430 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:31:05,761 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:31:06,425 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:33:11,328 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:33:12,976 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:33:20,708 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:33:22,403 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:33:23,637 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:33:28,443 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:33:44,408 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:34:43,602 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:34:46,813 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:34:49,819 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:34:53,819 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:35:15,015 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:35:18,291 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:35:23,183 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:35:26,543 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:35:38,939 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\main\views.py changed, reloading.
+2022-03-23 16:35:48,358 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:37:14,361 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:37:15,669 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:37:17,354 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:37:18,689 [WARNING] django.request: Not Found: /favicon.ico
+2022-03-23 16:37:56,013 [WARNING] django.request: Not Found: /api
+2022-03-23 16:37:59,284 [WARNING] django.request: Not Found: /api/
+2022-03-23 16:39:14,158 [WARNING] django.request: Not Found: /static/admin/css/base.css
+2022-03-23 16:39:14,161 [WARNING] django.request: Not Found: /static/admin/css/nav_sidebar.css
+2022-03-23 16:39:14,172 [WARNING] django.request: Not Found: /static/admin/css/login.css
+2022-03-23 16:39:14,178 [WARNING] django.request: Not Found: /static/admin/css/responsive.css
+2022-03-23 16:39:14,187 [WARNING] django.request: Not Found: /static/admin/js/nav_sidebar.js
+2022-03-23 16:39:22,002 [ERROR] django.request: Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'world.main_user' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\admin\sites.py", line 417, in login
+    return LoginView.as_view(**defaults)(request)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\debug.py", line 90, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\auth\views.py", line 64, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\generic\base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\generic\edit.py", line 143, in post
+    if form.is_valid():
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\forms\forms.py", line 190, in is_valid
+    return self.is_bound and not self.errors
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\forms\forms.py", line 185, in errors
+    self.full_clean()
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\forms\forms.py", line 405, in full_clean
+    self._clean_form()
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\forms\forms.py", line 426, in _clean_form
+    cleaned_data = self.clean()
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\auth\forms.py", line 205, in clean
+    self.user_cache = authenticate(self.request, username=username, password=password)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\auth\__init__.py", line 76, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\auth\backends.py", line 42, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\contrib\auth\base_user.py", line 44, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 435, in get
+    num = len(clone)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 262, in __len__
+    self._fetch_all()
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 1354, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\models\sql\compiler.py", line 1202, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\YEOL\AppData\Local\Programs\Python\Python38\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'world.main_user' doesn't exist")
+2022-03-23 16:39:25,639 [WARNING] django.request: Not Found: /static/admin/css/base.css
+2022-03-23 16:39:25,644 [WARNING] django.request: Not Found: /static/admin/css/nav_sidebar.css
+2022-03-23 16:39:25,647 [WARNING] django.request: Not Found: /static/admin/css/login.css
+2022-03-23 16:39:25,651 [WARNING] django.request: Not Found: /static/admin/js/nav_sidebar.js
+2022-03-23 16:39:25,654 [WARNING] django.request: Not Found: /static/admin/css/responsive.css
+2022-03-23 16:39:30,841 [WARNING] django.request: Not Found: /static/admin/css/base.css
+2022-03-23 16:39:30,844 [WARNING] django.request: Not Found: /static/admin/css/nav_sidebar.css
+2022-03-23 16:39:30,847 [WARNING] django.request: Not Found: /static/admin/css/login.css
+2022-03-23 16:39:30,851 [WARNING] django.request: Not Found: /static/admin/js/nav_sidebar.js
+2022-03-23 16:39:30,853 [WARNING] django.request: Not Found: /static/admin/css/responsive.css
+2022-03-23 16:39:38,369 [WARNING] django.request: Not Found: /auth
+2022-03-23 16:39:55,914 [INFO] my: INFO 레벨로 출력
+2022-03-23 16:40:36,474 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\web_study\settings.py changed, reloading.
+2022-03-23 16:40:39,794 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:41:35,831 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\my_setttings.py changed, reloading.
+2022-03-23 16:41:39,295 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-03-23 16:42:00,395 [INFO] django.utils.autoreload: D:\workspace\djgo\djgoNewStart\web_study\my_setttings.py changed, reloading.

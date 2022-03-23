@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    장고 첫페이지!
+    <li><a href="auth/signIn/">login 페이지로 이동</a></li>
+    <li><a href="post_view">post_view 페이지로 이동</a></li>
+
+
+    <table class="table-contents" style="padding:10px">
+        <tr>
+          <th>제목</th>
+          <th>내용</th>
+        </tr>
+        {% for post in posts %}
+          <tr>
+            <td>{{post.name}}</td>
+            <td>{{post.countrycode}}</td>
+            </tr>
+        {%endfor%}
+      </table>
+
+
+</body>
+</html>
